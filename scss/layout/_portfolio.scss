@@ -51,3 +51,13 @@
 .img-sistemas{
   height: 200px;
 }
+
+.icons-skills{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  i{
+    margin: 10px 15px;
+  }
+}
